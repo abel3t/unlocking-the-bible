@@ -1,4 +1,6 @@
 # How to use the book?
 
-David Pawson
+Providing an overview of the unique account of God’s relationship with his people in both the Old and New Testaments, Unlocking the Bible, by the widely respected evangelical speaker and writer David Pawson, gives a real sense of the sweep of biblical history and its implications for our lives, opening up the Word of God in a fresh and powerful way. Avoiding the small detail of verse-by-verse studies, it sets out the epic true story of God and his people. The culture, historical background, and people are introduced, and the teaching is applied to the modern world.
+
+This collection of maps, diagrams, and charts is intended for use as a supplement to the related recorded teaching sessions by David Pawson, providing illustrations which the author has used to accompany his talks. The sessions were delivered over a period of many decades, so some of the resources, where they refer to facts which were correct at the time of first use, may no longer be up-to-date. \(This would apply, for example, to the illustrations of tall buildings.\) Moreover, as the images will have been used in more than one talk, or in relation to more than one Bible study, some of them are intentionally duplicated here, thus providing, as far as possible, a full and appropriately accessible record of the resources used in each teaching series.
 
