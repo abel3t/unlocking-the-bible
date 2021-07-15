@@ -1,2 +1,2 @@
-# Initial page
+# How to use the book?
 
