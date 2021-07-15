@@ -2,13 +2,11 @@
 
 * [How to use the book?](README.md)
 
-## The Old Testament
+## THE old testament
 
----
+* [Genesis](the-old-testament/genesis.md)
 
-* [Genesis](genesis.md)
-
-## THE NEW Testament
+## The new Testament
 
 * [Matthew](the-new-testament/matthew.md)
 
